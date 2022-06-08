@@ -1,0 +1,128 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.6624794",
+        "identifierSource": "DOI"
+    },
+    "title": "NiMARE: Neuroimaging Meta-Analysis Research Environment",
+    "creators": [
+        {
+            "name": "Taylor Salo"
+        },
+        {
+            "name": "Tal Yarkoni"
+        },
+        {
+            "name": "Thomas Nichols"
+        },
+        {
+            "name": "Jean-Baptiste Poline"
+        },
+        {
+            "name": "Murat Bilgel"
+        },
+        {
+            "name": "Katherine Bottenhorn"
+        },
+        {
+            "name": "Dorota Jarecka"
+        },
+        {
+            "name": "James Kent"
+        },
+        {
+            "name": "Adam Kimbler"
+        },
+        {
+            "name": "Dylan Nielson"
+        },
+        {
+            "name": "Kendra Oudyk"
+        },
+        {
+            "name": "Julio Peraza"
+        },
+        {
+            "name": "Alexandre P\u00e9rez"
+        },
+        {
+            "name": "Puck Reeders"
+        },
+        {
+            "name": "Julio Yanes"
+        },
+        {
+            "name": "Angela Laird"
+        }
+    ],
+    "description": "<p>Dataset provided for NeuroLibre preprint. Author repo: https://github.com/NBCLab/nimare-paper NeuroLibre fork:https://github.com/roboneurolibre/nimare-paper</p>\n\n<p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/7\">NeuroLibre technical screening.</a></p>\n\n<p><strong><a href=\"https://neurolibre.org\">https://neurolibre.org</a></strong></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "CC0-1.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 560.7,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/6624795",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "5570"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2022-06-08 19:48:37",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2022-06-08 19:48:38",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "imaging"
+        }
+    ]
+}
